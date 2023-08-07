@@ -1,2 +1,0 @@
-# hesai_lidar_xt16
-autoware universe向けのhesai_lidar_xt16
