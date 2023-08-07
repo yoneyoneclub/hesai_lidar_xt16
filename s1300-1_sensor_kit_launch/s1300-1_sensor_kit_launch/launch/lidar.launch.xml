@@ -11,7 +11,7 @@
     <push-ros-namespace namespace="lidar"/>
 
     <group>
-      <push-ros-namespace namespace="front" />
+      <push-ros-namespace namespace="top" />
       <include file="$(find-pkg-share aip_x2_launch)/launch/pandar_node_container.launch.py">
         <arg name="model" value="PandarXT-16" />
         <arg name="frame_id" value="velodyne_top" />
