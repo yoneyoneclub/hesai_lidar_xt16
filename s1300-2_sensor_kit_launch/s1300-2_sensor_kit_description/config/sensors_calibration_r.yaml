@@ -1,0 +1,8 @@
+base_link:
+  sensor_kit_base_link:
+    pitch: 0.0
+    roll: 0.0
+    x: -2.35
+    y: 0.52
+    yaw: -2.3561946535897937
+    z: 0.7
