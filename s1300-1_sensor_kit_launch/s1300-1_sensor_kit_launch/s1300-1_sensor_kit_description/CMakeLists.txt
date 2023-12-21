@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(s1300-2_sensor_kit_description)
+project(s1300-1_sensor_kit_description)
 
 find_package(ament_cmake_auto REQUIRED)
 

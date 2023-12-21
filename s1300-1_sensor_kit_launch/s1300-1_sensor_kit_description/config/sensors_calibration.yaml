@@ -1,8 +1,11 @@
 base_link:
   sensor_kit_base_link:
-    x: 2.02
-    y: 0.0
-    z: 0.815
-    yaw: 0.00721762451674
+    x: 2.35
+    y: -0.52
+    z: 0.70
+
+    #yaw: -0.785398  # velodyne -45 deg
+    yaw: 0.780398  # hesai90 - 45 = 45
+
     pitch: 0.0
     roll: 0.0
